@@ -99,3 +99,7 @@ li.dropdown {
 .hideable-section:first-of-type {
     display: block;
 }
+h1{
+    margin-top: 12px;
+
+}
